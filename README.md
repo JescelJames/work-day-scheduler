@@ -10,6 +10,10 @@ Develop a straightforward calendar app enabling users to record events for each 
 
 - Repository Link: https://github.com/JescelJames/work-day-scheduler
 
+## Photos
+![Screenshot 2024-02-22 155726](https://github.com/JescelJames/work-day-scheduler/assets/105643185/9a291995-d364-4b9a-8ede-16e63b91d2dd)
+
+
 ### What I learned:
 
 1. jQuery: Click Event, Form Elements, DOM Traversal, Event Delegation, UI Widgets
